@@ -1,8 +1,12 @@
 # CMU-Q MSA
 
-The **Muslim Student Association at Carnegie Mellon University in Qatar** —
-a campus club building and maintaining small tools that support student life,
-communication, and Islamic learning at CMU-Q.
+The **Muslim Students Association (MSA) at Carnegie Mellon University in
+Qatar** is a student organization that nurtures the faith of Muslims at
+CMU-Q, runs educational programs on Islamic beliefs and practices, and
+supports the spiritual and communal life of the campus.
+
+This GitHub organization is where we keep the small open-source tools we
+build and use to help run the MSA.
 
 ## Projects
 
@@ -29,8 +33,7 @@ communication, and Islamic learning at CMU-Q.
 - [cmuqmsa-latex](https://github.com/CMUQ-MSA/cmuqmsa-latex) — reusable
   CMU-Q MSA LaTeX handout template with branding and Arabic support.
 
-## Contributing
+## Contact
 
-If you spot a bug or have a feature idea for one of these projects, please
-open an issue in the relevant repository. Pull requests from CMU-Q MSA team
-members are welcome.
+The MSA can be reached at <msa@andrew.cmu.edu>. For bugs or feature ideas
+in one of these projects, please open an issue in the relevant repository.
