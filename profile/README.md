@@ -1,19 +1,36 @@
 # CMU-Q MSA
 
-Welcome to the GitHub organization for the **Muslim Student Association at Carnegie Mellon University in Qatar (CMU-Q MSA)**.
-
-We build and maintain tools that support student life, communication, and Islamic learning resources for the CMU-Q community.
+The **Muslim Student Association at Carnegie Mellon University in Qatar** —
+a campus club building and maintaining small tools that support student life,
+communication, and Islamic learning at CMU-Q.
 
 ## Projects
 
-- [al-amanah](https://github.com/CMUQ-MSA/al-amanah) — event task tracker with FastAPI, React, and Discord reminders.
-- [cmuqmsa-links](https://github.com/CMUQ-MSA/cmuqmsa-links) — link hub with admin-managed links and FastAPI backend.
-- [cmuqmsa-email-automation](https://github.com/CMUQ-MSA/cmuqmsa-email-automation) — Gmail API mailer for announcements.
-- [cmuqmsa-khatmah](https://github.com/CMUQ-MSA/cmuqmsa-khatmah) — Quran khatmah planner for Ramadan and custom schedules.
-- [cmuqmsa-quran](https://github.com/CMUQ-MSA/cmuqmsa-quran) — Quran context app with random ayahs and surrounding verses.
-- [cmuqmsa-sunnah](https://github.com/CMUQ-MSA/cmuqmsa-sunnah) — Sunnah explorer for hadith discovery and chapter browsing.
-- [cmuqmsa-latex](https://github.com/CMUQ-MSA/cmuqmsa-latex) — reusable LaTeX handout template with CMU-Q MSA branding.
+### Student life & communications
+
+- [al-amanah](https://github.com/CMUQ-MSA/al-amanah) — task tracker for MSA
+  events, with FastAPI, React, and Discord reminders.
+- [cmuqmsa-links](https://github.com/CMUQ-MSA/cmuqmsa-links) — link-in-bio
+  app with admin-managed links and a FastAPI backend.
+- [cmuqmsa-email-automation](https://github.com/CMUQ-MSA/cmuqmsa-email-automation)
+  — Gmail API mailer for announcements, with CSV merge and dry-run preview.
+
+### Islamic learning
+
+- [cmuqmsa-quran](https://github.com/CMUQ-MSA/cmuqmsa-quran) — Quran context
+  app showing random ayahs alongside their surrounding verses.
+- [cmuqmsa-sunnah](https://github.com/CMUQ-MSA/cmuqmsa-sunnah) — static
+  Sunnah explorer with random Hadith discovery and chapter navigation.
+- [cmuqmsa-khatmah](https://github.com/CMUQ-MSA/cmuqmsa-khatmah) — Quran
+  khatmah planner for Ramadan and custom reading schedules.
+
+### Templates
+
+- [cmuqmsa-latex](https://github.com/CMUQ-MSA/cmuqmsa-latex) — reusable
+  CMU-Q MSA LaTeX handout template with branding and Arabic support.
 
 ## Contributing
 
-If you are a CMU-Q MSA team member, please open issues or pull requests in the relevant repository.
+If you spot a bug or have a feature idea for one of these projects, please
+open an issue in the relevant repository. Pull requests from CMU-Q MSA team
+members are welcome.
